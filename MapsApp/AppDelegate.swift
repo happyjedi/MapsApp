@@ -2,11 +2,13 @@
 //  AppDelegate.swift
 //  MapsApp
 //
-//  Created by Tatiana on 05.01.16.
+//  Created by HappyJedi on 05.01.16.
 //  Copyright © 2016 HappyJedi. All rights reserved.
 //
 
 import UIKit
+import MapKit
+import CoreLocation
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

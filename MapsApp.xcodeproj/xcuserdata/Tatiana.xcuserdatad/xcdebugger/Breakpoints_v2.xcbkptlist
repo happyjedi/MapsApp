@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MapsApp/ViewController.swift"
+            timestampString = "473865816.389402"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MapsApp.ViewController.manager.getter : __ObjC.CLLocationManager"
+                  moduleName = "MapsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tatiana/Development/HappyJedi/MapsApp/MapsApp/ViewController.swift"
+                  timestampString = "473866100.216868"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MapsApp.ViewController.manager.setter : __ObjC.CLLocationManager"
+                  moduleName = "MapsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tatiana/Development/HappyJedi/MapsApp/MapsApp/ViewController.swift"
+                  timestampString = "473866100.217146"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MapsApp.ViewController.manager.materializeForSet : __ObjC.CLLocationManager"
+                  moduleName = "MapsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tatiana/Development/HappyJedi/MapsApp/MapsApp/ViewController.swift"
+                  timestampString = "473866100.21732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MapsApp.ViewController.init (MapsApp.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; MapsApp.ViewController"
+                  moduleName = "MapsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tatiana/Development/HappyJedi/MapsApp/MapsApp/ViewController.swift"
+                  timestampString = "473866100.217476"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MapsApp.ViewController.init (MapsApp.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MapsApp.ViewController&gt;"
+                  moduleName = "MapsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tatiana/Development/HappyJedi/MapsApp/MapsApp/ViewController.swift"
+                  timestampString = "473866100.217633"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
